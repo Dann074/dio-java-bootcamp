@@ -1,6 +1,6 @@
 # Class Anatomy
 
-## >A well-structured class does not want war with anyone
+>A well-structured class does not want war with anyone
 
 
 Writing a program's code is done by composing words predefined by the language with the expressions we use to determine the name of our files, classes, attributes and methods.
