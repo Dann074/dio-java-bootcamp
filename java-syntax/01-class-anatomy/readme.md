@@ -34,7 +34,7 @@ final int BRAZILIAN_STATES = 27
 final int YEAR=2000 = 2000
 ```
 
-> <img src="https://cdn-icons-png.flaticon.com/512/4201/4201973.png" alt="exclamation" width="15px"> Recommendations: To declare a variable we can use characters, numbers and symbols, but we must follow some rules of the language.
+> <img src="https://cdn-icons-png.flaticon.com/512/4201/4201973.png" alt="exclamation" width="20px"> Recommendations: To declare a variable we can use characters, numbers and symbols, but we must follow some rules of the language.
 
 * Must contain only letters, _ (underline), $ or numbers 0 to 9
 * It must begin with a letter (preferably), _ or $, never with a number
