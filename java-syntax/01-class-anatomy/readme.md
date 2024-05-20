@@ -25,7 +25,7 @@ When it comes to writing code in the Java language, it is recommended to follow 
 
 * **Variable name**: Every variable must be written in lowercase letters, however if the word is compound, the first letter of the second word must be UPPERCASE, for example: year and fabricationYear. The name of this practice for naming variables in this way is called "camelCase"
 
-> <img src="https://cdn.pixabay.com/photo/2016/06/15/15/02/info-1459077_1280.png" alt="information" width="15px"> Existe uma regra adicional para variáveis quando na mesma queremos identificar que ela não sofrerá alteração de valor, por exemplo: queremos determinar que uma variável de nome **br** sempre representará "**Brasil**" e nunca mudará seu valor, logo, determinamos como escrita do código abaixo:
+> <img src="https://cdn.pixabay.com/photo/2016/06/15/15/02/info-1459077_1280.png" alt="information" width="15px"> There is an additional rule for variables when we want to identify that it will not change its value, for example: we want to determine that a variable named **br** will always represent "**Brazil**" and will never change its value, so , we determine how to write the code below:
 
 ```Java
 final String BR = "Brazil" // The final determines that the variable doesn't change
