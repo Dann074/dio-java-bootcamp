@@ -32,3 +32,5 @@ final String BR = "Brazil" // The final determines that the variable doesn't cha
 final double PI = 3.14
 final int BRAZILIAN_STATES = 27
 final int YEAR=2000 = 2000
+
+<img src="https://static.vecteezy.com/system/resources/thumbnails/012/042/292/small_2x/warning-sign-icon-transparent-background-free-png.png" alt="information" width="20px">
