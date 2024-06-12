@@ -25,7 +25,7 @@ When it comes to writing code in the Java language, it is recommended to follow 
 
 * **Variable name**: Every variable must be written in lowercase letters, however if the word is compound, the first letter of the second word must be UPPERCASE, for example: year and fabricationYear. The name of this practice for naming variables in this way is called "camelCase"
 
-> <img src="https://cdn.pixabay.com/photo/2016/06/15/15/02/info-1459077_1280.png" alt="information" width="15px"> Existe uma regra adicional para variáveis quando na mesma queremos identificar que ela não sofrerá alteração de valor, por exemplo: queremos determinar que uma variável de nome **br** sempre representará "**Brasil**" e nunca mudará seu valor, logo, determinamos como escrita do código abaixo:
+> ℹThere is an additional rule for variables when we want to identify that it will not change its value, for example: we want to determine that a variable named **br** will always represent "**Brazil**" and will never change its value, so , we determine how to write the code below:
 
 ```Java
 final String BR = "Brazil" // The final determines that the variable doesn't change
@@ -34,7 +34,7 @@ final int BRAZILIAN_STATES = 27
 final int YEAR=2000 = 2000
 ```
 
-> <img src="https://cdn-icons-png.flaticon.com/512/4201/4201973.png" alt="exclamation" width="15px"> Recommendations: To declare a variable we can use characters, numbers and symbols, but we must follow some rules of the language.
+> ⚠Recommendations: To declare a variable we can use characters, numbers and symbols, but we must follow some rules of the language.
 
 * Must contain only letters, _ (underline), $ or numbers 0 to 9
 * It must begin with a letter (preferably), _ or $, never with a number
@@ -57,7 +57,7 @@ int numeroum = 1;
 int longo = 1;
 ```
 
-## Declarating variables and mmethod
+## Declarating variables and method
 
 How to identify between variables declarations and methods in our program? There is a common structure for both functions, for example:
 * Declaring a variable in Java follows the following structure:
